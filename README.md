@@ -1,4 +1,8 @@
-# Linux-Shell
+# Linux Shell
+_Creators:_   
+_Yuvraj Singh Malhi (BITS Pilani Electronics)_   
+_Shivam Goyal       (BITS Pilani Computers)_   
+
 
 ## Description
 This is a linux shell, written in C with a sweet interface and with added functionality of a few custom commands.
@@ -58,7 +62,7 @@ Give yes/y if you want to print all the details (PIDs, FDs, status) of each comm
 ![5-software](https://user-images.githubusercontent.com/76866159/107150030-c9118b80-6981-11eb-83e7-6428d1bfd9d7.gif)
 
 
-Do share if you liked my work. Thanks!
+Do share if you liked our work. Thanks!
 
 :smile:
 
