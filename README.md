@@ -3,6 +3,8 @@
 ## Description
 This is a linux shell, written in C with a sweet interface and with added functionality of a few custom commands.
 
+
+
 ### Features
 1. **General Terminal commands** - The shell supports general commands like ls, cat, grep, who, date etc.   
 
@@ -28,4 +30,6 @@ This is a linux shell, written in C with a sweet interface and with added functi
 8. **Getting history of previous commands** - Using SIGINT and SIGQUIT behaviour
 	when _SIGINT (Ctrl + C)_ is pressed on the keyboard, the shell displays the last 10 executed commands on the console, alongwith their status and exits.
 	when _SIGQUIT (Ctrl + \)_ is pressed, the shell asks the user to quit or not.
+	
+9. **Opening external applications** - Can easily open other applications like firefox, peek, leafpad, etc directly from the shell.
 
