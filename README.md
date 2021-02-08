@@ -35,9 +35,9 @@ Give yes/y if you want to print all the details (PIDs, FDs, status) of each comm
 4. **Option of verbose output**, which if chosen then the shell displays the output of each command, and also the input and output pipe fd's and the process id's of the respective processes.
 
 5. **Double pipe** operator -  New operator custom defined for redirecting the output of _command 1_ to both _command 2_ and _command 3_.   
-``` (command 1) | (command 2) (command 3) ```  
+``` (command 1) || (command 2) (command 3) ```  
 6. **Triple pipe** operator -  New operator custom defined for redirecting the output of _command 1_ to all of _command 2_,_command 3_ and _command 4_.   
-``` (command 1) | (command 2) (command 3) (command 4) ```  
+``` (command 1) ||| (command 2) (command 3) (command 4) ```  
 
 ![3-double,triple pipe](https://user-images.githubusercontent.com/76866159/107150025-beef8d00-6981-11eb-9439-ed6a62872aaf.gif)
 
