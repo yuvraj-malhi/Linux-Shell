@@ -1,25 +1,16 @@
 #include <stdio.h>
-
 #include <unistd.h>
-
 #include <string.h>
-
 #include <stdlib.h>
-
 #include <sys/stat.h>
-
 #include <fcntl.h>
-
 #include <sys/wait.h>
 
 
 
 char *last10[10];
-
 int p_stat[10];
-
 int head;
-
 int verbose;
 
 
